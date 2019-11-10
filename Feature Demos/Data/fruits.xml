@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <sno>1</sno>
+    <fruit>apple</fruit>
+    <color>red</color>
+    <price>110.85</price>
+  </row>
+  <row>
+    <sno>2</sno>
+    <fruit>banana</fruit>
+    <color>yellow</color>
+    <price>50.12</price>
+  </row>
+  <row>
+    <sno>3</sno>
+    <fruit>mango</fruit>
+    <color>yellow</color>
+    <price>70.29</price>
+  </row>
+  <row>
+    <sno>4</sno>
+    <fruit>orange</fruit>
+    <color>orange</color>
+    <price>80.00</price>
+  </row>
+  <row>
+    <sno>5</sno>
+    <fruit>kiwi</fruit>
+    <color>green</color>
+    <price>150.00</price>
+  </row>
+  <row>
+    <sno>6</sno>
+    <fruit>pineapple</fruit>
+    <color>yellow</color>
+    <price>90.00</price>
+  </row>
+  <row>
+    <sno>7</sno>
+    <fruit>guava</fruit>
+    <color>green</color>
+    <price>20.00</price>
+  </row>
+</root>

@@ -1,0 +1,44 @@
+[
+ {
+   "sno": 1,
+   "fruit": "apple",
+   "color": "red",
+   "price": 110.85
+ },
+ {
+   "sno": 2,
+   "fruit": "banana",
+   "color": "yellow",
+   "price": 50.12
+ },
+ {
+   "sno": 3,
+   "fruit": "mango",
+   "color": "yellow",
+   "price": 70.29
+ },
+ {
+   "sno": 4,
+   "fruit": "orange",
+   "color": "orange",
+   "price": 80
+ },
+ {
+   "sno": 5,
+   "fruit": "kiwi",
+   "color": "green",
+   "price": 150
+ },
+ {
+   "sno": 6,
+   "fruit": "pineapple",
+   "color": "yellow",
+   "price": 90
+ },
+ {
+   "sno": 7,
+   "fruit": "guava",
+   "color": "green",
+   "price": 20
+ }
+]
